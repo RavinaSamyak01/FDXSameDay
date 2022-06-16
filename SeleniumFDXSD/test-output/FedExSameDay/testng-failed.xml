@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [FedExSameDay]">
+  <test parallel="none" name="FedExSameDay Performance Testing(failed)">
+    <classes>
+      <class name="fdxsdtest.SeleniumFDXTests">
+        <methods>
+          <include name="main"/>
+          <include name="end"/>
+        </methods>
+      </class> <!-- fdxsdtest.SeleniumFDXTests -->
+    </classes>
+  </test> <!-- FedExSameDay Performance Testing(failed) -->
+</suite> <!-- Failed suite [FedExSameDay] -->

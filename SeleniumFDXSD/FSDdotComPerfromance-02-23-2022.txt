@@ -1,0 +1,66 @@
+
+
+Current Date & Time = 02/23/2022 10:36:13 AM
+
+02/23/2022 10:36:13 AM,	
+	Pinging www.fedexsameday.com [104.245.197.191] with 32 bytes of data:
+	Reply from 104.245.197.191: bytes=32 time=234ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=233ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=234ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=233ms TTL=113
+	
+	Ping statistics for 104.245.197.191:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 233ms, Maximum = 234ms, Average = 233ms
+
+
+	Login Time (in Seconds) = 10.2551255
+10.2551255,	Quote Time (in Seconds) = 4.4420089
+	Quote Time (in Seconds) = 4.4420089
+4.4420089,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 02/23/2022 10:50:37 AM
+
+02/23/2022 10:50:37 AM,	
+	Pinging www.fedexsameday.com [104.245.197.191] with 32 bytes of data:
+	Reply from 104.245.197.191: bytes=32 time=234ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=234ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=234ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=237ms TTL=113
+	
+	Ping statistics for 104.245.197.191:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 234ms, Maximum = 237ms, Average = 234ms
+
+
+	Login Time (in Seconds) = 9.9926148
+9.9926148,	Quote Time (in Seconds) = 4.041450800000001
+	Quote Time (in Seconds) = 4.041450800000001
+4.041450800000001,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 02/23/2022 11:08:25 AM
+
+02/23/2022 11:08:25 AM,	
+	Pinging www.fedexsameday.com [104.245.197.191] with 32 bytes of data:
+	Reply from 104.245.197.191: bytes=32 time=233ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=232ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=232ms TTL=113
+	Reply from 104.245.197.191: bytes=32 time=233ms TTL=113
+	
+	Ping statistics for 104.245.197.191:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 232ms, Maximum = 233ms, Average = 232ms
+
+
+	Login Time (in Seconds) = 11.749546700000002
+11.749546700000002,	Quote Time (in Seconds) = 3.0868698
+	Quote Time (in Seconds) = 3.0868698
+3.0868698,SIPL01
+SamyakAzure

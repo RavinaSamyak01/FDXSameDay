@@ -1,0 +1,160 @@
+
+
+Current Date & Time = 09/13/2021 10:02:34 AM
+
+09/13/2021 10:02:34 AM,4.6941078,	Quote Time (in Seconds) = 0.2499733
+	Quote Time (in Seconds) = 0.2499733
+0.2499733,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 10:18:33 AM
+
+09/13/2021 10:18:33 AM,4.0915052,	Quote Time (in Seconds) = 0.2636962
+	Quote Time (in Seconds) = 0.2636962
+0.2636962,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 10:46:59 AM
+
+09/13/2021 10:46:59 AM,6.0792888000000005,	Quote Time (in Seconds) = 0.31165170000000003
+	Quote Time (in Seconds) = 0.31165170000000003
+0.31165170000000003,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 10:49:26 AM
+
+09/13/2021 10:49:26 AM,4.9156474,	Quote Time (in Seconds) = 0.3294858
+	Quote Time (in Seconds) = 0.3294858
+0.3294858,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 11:25:03 AM
+
+09/13/2021 11:25:03 AM,7.3372177,	Quote Time (in Seconds) = 0.07563850000000001
+	Quote Time (in Seconds) = 0.07563850000000001
+0.07563850000000001,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 11:47:39 AM
+
+09/13/2021 11:47:39 AM,5.7453934,	Quote Time (in Seconds) = 0.0807448
+	Quote Time (in Seconds) = 0.0807448
+0.0807448,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 11:52:57 AM
+
+09/13/2021 11:52:57 AM,8.173641100000001,	Quote Time (in Seconds) = 0.0702586
+	Quote Time (in Seconds) = 0.0702586
+0.0702586,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 12:18:30 PM
+
+09/13/2021 12:18:30 PM,5.0453053,	Quote Time (in Seconds) = 0.07995340000000001
+	Quote Time (in Seconds) = 0.07995340000000001
+0.07995340000000001,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 12:49:55 PM
+
+09/13/2021 12:49:55 PM,2.4786496000000002,	Quote Time (in Seconds) = 0.0734852
+	Quote Time (in Seconds) = 0.0734852
+0.0734852,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 01:03:46 PM
+
+09/13/2021 01:03:46 PM,1.6729094000000002,	Quote Time (in Seconds) = 0.0776607
+	Quote Time (in Seconds) = 0.0776607
+0.0776607,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 02:00:15 PM
+
+09/13/2021 02:00:15 PM,11.6910114,	Quote Time (in Seconds) = 0.08215560000000001
+	Quote Time (in Seconds) = 0.08215560000000001
+0.08215560000000001,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 02:36:41 PM
+
+09/13/2021 02:36:41 PM,2.0274986,	Quote Time (in Seconds) = 0.23524820000000002
+	Quote Time (in Seconds) = 0.23524820000000002
+0.23524820000000002,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 03:37:50 PM
+
+09/13/2021 03:37:50 PM,1.4454477000000001,	Quote Time (in Seconds) = 0.2270879
+	Quote Time (in Seconds) = 0.2270879
+0.2270879,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 03:59:49 PM
+
+09/13/2021 03:59:49 PM,4.244784,	Quote Time (in Seconds) = 0.24884830000000002
+	Quote Time (in Seconds) = 0.24884830000000002
+0.24884830000000002,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 04:21:19 PM
+
+09/13/2021 04:21:19 PM,1.1491085,	Quote Time (in Seconds) = 0.0782094
+	Quote Time (in Seconds) = 0.0782094
+0.0782094,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 04:30:44 PM
+
+09/13/2021 04:30:44 PM,1.3173157,	Quote Time (in Seconds) = 0.07491600000000001
+	Quote Time (in Seconds) = 0.07491600000000001
+0.07491600000000001,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 04:44:08 PM
+
+09/13/2021 04:44:08 PM,6.538126500000001,	Quote Time (in Seconds) = 0.0734147
+	Quote Time (in Seconds) = 0.0734147
+0.0734147,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 04:56:54 PM
+
+09/13/2021 04:56:54 PM,1.0939768,	Quote Time (in Seconds) = 0.0736942
+	Quote Time (in Seconds) = 0.0736942
+0.0736942,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 06:08:17 PM
+
+09/13/2021 06:08:17 PM,3.2995305000000004,	Quote Time (in Seconds) = 0.1921624
+	Quote Time (in Seconds) = 0.1921624
+0.1921624,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/13/2021 06:23:22 PM
+
+09/13/2021 06:23:22 PM,2.3911066,	Quote Time (in Seconds) = 0.1333587
+	Quote Time (in Seconds) = 0.1333587
+0.1333587,SIPL01
+SamyakAzure

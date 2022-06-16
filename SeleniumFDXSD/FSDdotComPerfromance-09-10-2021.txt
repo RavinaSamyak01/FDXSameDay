@@ -1,0 +1,16 @@
+
+
+Current Date & Time = 09/10/2021 04:27:07 PM
+
+09/10/2021 04:27:07 PM,9.8210301,	Quote Time (in Seconds) = 0.0808388
+	Quote Time (in Seconds) = 0.0808388
+0.0808388,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 09/10/2021 05:16:24 PM
+
+09/10/2021 05:16:24 PM,7.942706800000001,	Quote Time (in Seconds) = 0.083803
+	Quote Time (in Seconds) = 0.083803
+0.083803,SIPL01
+SamyakAzure

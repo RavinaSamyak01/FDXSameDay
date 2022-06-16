@@ -1,0 +1,198 @@
+
+
+Current Date & Time = 06/16/2022 01:03:49 PM
+
+06/16/2022 01:03:49 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=272ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=290ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=288ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=279ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 272ms, Maximum = 290ms, Average = 282ms
+
+
+	Login Time (in Seconds) = 10.7104456
+10.7104456,	Quote Time (in Seconds) = 3.4699641000000003
+	Quote Time (in Seconds) = 3.4699641000000003
+3.4699641000000003,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 01:07:31 PM
+
+06/16/2022 01:07:31 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=518ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=297ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=274ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=284ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 274ms, Maximum = 518ms, Average = 343ms
+
+
+	Login Time (in Seconds) = 10.557415200000001
+10.557415200000001,	Quote Time (in Seconds) = 4.519138900000001
+	Quote Time (in Seconds) = 4.519138900000001
+4.519138900000001,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 01:15:45 PM
+
+06/16/2022 01:15:45 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=497ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=274ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=295ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=291ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 274ms, Maximum = 497ms, Average = 339ms
+
+
+	Login Time (in Seconds) = 6.6966247
+6.6966247,	Quote Time (in Seconds) = 3.9996068000000005
+	Quote Time (in Seconds) = 3.9996068000000005
+3.9996068000000005,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 01:26:15 PM
+
+06/16/2022 01:26:15 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=293ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=301ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=303ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=301ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 293ms, Maximum = 303ms, Average = 299ms
+
+
+	Login Time (in Seconds) = 6.2579734
+6.2579734,	Quote Time (in Seconds) = 5.567043
+	Quote Time (in Seconds) = 5.567043
+5.567043,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 01:31:48 PM
+
+06/16/2022 01:31:48 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=285ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=285ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=292ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=289ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 285ms, Maximum = 292ms, Average = 287ms
+
+
+	Login Time (in Seconds) = 29.739116000000003
+29.739116000000003,	Quote Time (in Seconds) = 18.3084335
+	Quote Time (in Seconds) = 18.3084335
+18.3084335,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 01:33:57 PM
+
+06/16/2022 01:33:57 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=292ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=288ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=295ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=293ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 288ms, Maximum = 295ms, Average = 292ms
+
+
+	Login Time (in Seconds) = 6.630626400000001
+6.630626400000001,	Quote Time (in Seconds) = 3.5604606000000003
+	Quote Time (in Seconds) = 3.5604606000000003
+3.5604606000000003,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 01:37:29 PM
+
+06/16/2022 01:37:29 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=303ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=299ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=306ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=287ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 287ms, Maximum = 306ms, Average = 298ms
+
+
+	Login Time (in Seconds) = 6.7056097
+6.7056097,	Quote Time (in Seconds) = 5.3064238
+	Quote Time (in Seconds) = 5.3064238
+5.3064238,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 02:43:53 PM
+
+06/16/2022 02:43:53 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=270ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=269ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=269ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=269ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 269ms, Maximum = 270ms, Average = 269ms
+
+
+	Login Time (in Seconds) = 6.3358302
+6.3358302,	Quote Time (in Seconds) = 2.8905519
+	Quote Time (in Seconds) = 2.8905519
+2.8905519,SIPL01
+SamyakAzure
+
+
+Current Date & Time = 06/16/2022 02:51:06 PM
+
+06/16/2022 02:51:06 PM,	
+	Pinging www.fedexsameday.com [10.20.245.152] with 32 bytes of data:
+	Reply from 10.20.245.152: bytes=32 time=280ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=283ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=280ms TTL=127
+	Reply from 10.20.245.152: bytes=32 time=281ms TTL=127
+	
+	Ping statistics for 10.20.245.152:
+	    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+	Approximate round trip times in milli-seconds:
+	    Minimum = 280ms, Maximum = 283ms, Average = 281ms
+
+
+	Login Time (in Seconds) = 7.0284278
+7.0284278,	Quote Time (in Seconds) = 3.7554171000000003
+	Quote Time (in Seconds) = 3.7554171000000003
+3.7554171000000003,SIPL01
+SamyakAzure

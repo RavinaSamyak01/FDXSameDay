@@ -1,0 +1,8 @@
+
+
+Current Date & Time = 02/22/2022 10:45:16 AM
+
+02/22/2022 10:45:16 AM,10.545352300000001,	Quote Time (in Seconds) = 0.1537473
+	Quote Time (in Seconds) = 0.1537473
+0.1537473,SIPL01
+SamyakAzure
