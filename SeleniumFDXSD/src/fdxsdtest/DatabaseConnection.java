@@ -12,14 +12,21 @@ public class DatabaseConnection {
 
 	String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
 
-	// For run in local machine for QA Environment==By Ravina
-
-	String url = "jdbc:sqlserver://10.100.112.5\\sql2016;databaseName=netlinkGX_QA";
-
-	// QA Local
-	String username = "ngl";
+	
+	//====New server=======
+	
+	String url = "jdbc:sqlserver://10.100.115.64\\SQLEXPRESS;databaseName=netlinkGX_QA";
+	String username = "ngl_qa";
 	String password = "samyak";
 
+	
+	//====old server=======
+	// For run in local machine for QA Environment==By Ravina
+	/*
+	 * String url =
+	 * "jdbc:sqlserver://10.100.112.5\\sql2016;databaseName=netlinkGX_QA"; // QA
+	 * Local String username = "ngl"; String password = "samyak";
+	 */
 	// For Server
 	/*
 	 * String url =
